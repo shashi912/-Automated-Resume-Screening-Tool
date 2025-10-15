@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment files
+.env
+venv/
+env/
+*.env
+
+# Database & Data Files
+*.sqlite3
+*.db
+*.csv
+*.xlsx
+
+# OS/System Files
+.DS_Store
+Thumbs.db
+
+# IDE/project config
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Misc
+*.pkl
+*.h5
